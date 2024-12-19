@@ -1,0 +1,7 @@
+LEAK CHECK: allocated object 0xdd9b238 with size 17
+LEAK CHECK: allocated object 0xdd9b1d8 with size 16
+LEAK CHECK: allocated object 0xdd9b318 with size 19
+LEAK CHECK: allocated object 0xdd9b178 with size 15
+LEAK CHECK: allocated object 0xdd9b118 with size 14
+LEAK CHECK: allocated object 0xdd9aff8 with size 11
+LEAK CHECK: allocated object 0xdd9b058 with size 12

@@ -1,0 +1,3 @@
+Bad pointer 0x8327f37
+MEMORY BUG: test023.cc:10: invalid free of pointer 0x8327f37, not allocated
+ test023.cc:10: ??? is 137527095 bytes inside a 127 byte region allocated here

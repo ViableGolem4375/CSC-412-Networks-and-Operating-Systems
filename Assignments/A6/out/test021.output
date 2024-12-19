@@ -1,0 +1,3 @@
+Bad pointer 0x2776df38
+MEMORY BUG: test021.cc:10: invalid free of pointer 0x2776df38, not allocated
+ test021.cc:10: ??? is 662101816 bytes inside a 128 byte region allocated here

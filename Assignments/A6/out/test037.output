@@ -1,0 +1,7 @@
+alloc count: active          5   total         10   fail          0
+alloc size:  active         40   total         55   fail          0
+LEAK CHECK: allocated object 0x24cce2f8 with size 10
+LEAK CHECK: allocated object 0x24cce298 with size 9
+LEAK CHECK: allocated object 0x24cce238 with size 8
+LEAK CHECK: allocated object 0x24cce1d8 with size 7
+LEAK CHECK: allocated object 0x24cce178 with size 6

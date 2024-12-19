@@ -1,0 +1,2 @@
+EXPECTED LEAK: 0x2269f358 with size 8
+LEAK CHECK: allocated object 0x2269f358 with size 8
